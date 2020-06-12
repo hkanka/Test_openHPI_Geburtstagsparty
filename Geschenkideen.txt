@@ -1,0 +1,7 @@
+
+BeagleBoneBlack
+Raspberry Pi 4
+Adalm-Pluto
+
+Saleae Logic Analyzer
+Bluetooth Dongle
