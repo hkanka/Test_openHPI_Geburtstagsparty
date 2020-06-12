@@ -1,0 +1,4 @@
+
+BeagleBoneBlack
+Raspberry Pi 4
+Adalm-Pluto
